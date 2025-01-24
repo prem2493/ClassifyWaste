@@ -1,2 +1,2 @@
 # Week1
-Waste Classification
+A CNN model to categorise the waste 
